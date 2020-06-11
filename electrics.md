@@ -501,7 +501,7 @@ Look into getting fourth 10A RCBO and have woody on own lighting?
 Need to get another EM key switch to add to the box.
 
 
-Work for 6th June 2020
+Work on 6th June 2020
 ======================
 
 - Re-run the electrical testing for preparation for restart
@@ -510,6 +510,19 @@ Work for 6th June 2020
 - Review EM stop for woody
 - Quick fire alarm test
 
+
+Notes:
+
+- Fire alarm test not carried out, test keyswitch on panel broken
+
+
+Work for 13th/14th June
+=======================
+
+- Get new socket run done in woody dusty
+- Look at putting water heater up
+- Emergency light above slackspace entrance
+- Emergency light above inner entrance
 
 
 Work still to do
