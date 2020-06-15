@@ -524,6 +524,19 @@ Work for 13th/14th June
 - Emergency light above slackspace entrance
 - Emergency light above inner entrance
 
+Done:
+
+- Initial socket work, not finished
+
+Work for 15th - 19th June
+=========================
+
+
+- Get new socket run done in woody dusty
+- Look at putting water heater up
+- Emergency light above slackspace entrance
+- Emergency light above inner entrance
+
 
 Work still to do
 ================
