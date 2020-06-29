@@ -531,11 +531,28 @@ Done:
 Work for 15th - 19th June
 =========================
 
-
 - Get new socket run done in woody dusty
 - Look at putting water heater up
 - Emergency light above slackspace entrance
 - Emergency light above inner entrance
+
+
+Work on 27th June
+=================
+
+- Finish and test new sockets in Woody Dusty
+- Fix power to the emergency light in green room
+- Review of issues with the historic wiring in slackspace
+- Finish emergency light going into slackspace
+
+
+
+Work before restart
+===================
+
+- Sockets into weldy
+- Possibly add second light in metalworking
+- Fix socket by DB1 and get it wired in.
 
 
 Work still to do
