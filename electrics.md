@@ -543,7 +543,24 @@ Work on 27th June
 - Finish and test new sockets in Woody Dusty
 - Fix power to the emergency light in green room
 - Review of issues with the historic wiring in slackspace
-- Finish emergency light going into slackspace
+
+
+Work 30th June
+==============
+
+- Start fixing of sockets into Weldy
+- More work in conduit towards trunking in Woody
+
+Work for 2 July
+===============
+
+- Finish trunking work in woody to finish socket radial
+- Finish fitting weldy sockets
+- More work to emergency light going into slackspace
+
+possibly:
+- add a second EM light into storage area
+- look at EM light point in double emergency
 
 
 
