@@ -614,6 +614,7 @@ Work still to do
 - Possibly move all lights in metalworking onto central power
 - Fix EM flood in woody
 - Put covers on DB2
+- Finish metal clipping relevant conduit runs
 
 Plus whatever happens once the various changes to layout have been discussed
 and finalised.
