@@ -563,13 +563,37 @@ possibly:
 - look at EM light point in double emergency
 
 
+Work 7th Nov 2020
+=================
+
+- Adam finished weldy sockets
+- Move flood light from snackspace to over arts (improve central EM light)
+
+
+Work 14th Nov 2020
+==================
+
+- Initial sort of EM light above Metalwork door
+- Replacw 20W flood in lift area with 10W LED flood
+  - Seems to be issue with LED array causing failure
+  - Replaced with 10W as had stock, uncertain about area usage.
+
 
 Work before restart
 ===================
 
-- Sockets into weldy
 - Possibly add second light in metalworking
 - Fix socket by DB1 and get it wired in.
+
+Work for 21/22nd November
+=========================
+
+- Finish water heater power in toilet
+  - Move the disabled alarm power
+  - Make socket by entrance mid-point
+  - Move the fuse unit for the disable alaarm to then feed water heater
+- Put EM light up above weldy door
+- Put conduit through for new Metalwork sockets (layout t.b.d)
 
 
 Work still to do
@@ -578,24 +602,30 @@ Work still to do
 - Add lighting point into member's storage area
   - re-use one of the LED floods from ?
   - need to re-add the EM light in there too
-- Add socket into the snackspace area
+- Add sockets into the snackspace area
+- Sockets in to the new snack/whatever area
+- EM stop for the woody and possibly metalworking area
+- Sockets for new electrical area (when design sorted)
+- Possibly new lighting in storage/electronics/etc area (when design final)
+- Lighting for the new snackspace/whatever area
+- EM light above the new fire door in woody
+- Put new light up in CNC room
+- Add 16/32A 3phase power into weldy
+- Possibly move all lights in metalworking onto central power
+- Fix EM flood in woody
+- Put covers on DB2
 
+Plus whatever happens once the various changes to layout have been discussed
+and finalised.
 
-
-
-
-On todo list
-============
-
-- Put new light up in CNC room 
-- Put light(s) up in weldy area
-- Finish sockets in weldy
-- Finish dado rail sockets
+Other bits to do:
+- Fixup dado rail sockets
+- Changes in sockets once arts part-wall is odne
 - Map DB1 circuits
 - Map DB2 circuits
-- Woody/dusty wiring plan
 - Second EM light test
-- Put new EM light above double doors into classroom
+- Review the EM light once all areas are sorted
+  - May need some extra lighting?
 
 
 
