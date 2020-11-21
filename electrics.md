@@ -585,16 +585,6 @@ Work before restart
 - Possibly add second light in metalworking
 - Fix socket by DB1 and get it wired in.
 
-Work for 21/22nd November
-=========================
-
-- Finish water heater power in toilet
-  - Move the disabled alarm power
-  - Make socket by entrance mid-point
-  - Move the fuse unit for the disable alaarm to then feed water heater
-- Put EM light up above weldy door
-- Put conduit through for new Metalwork sockets (layout t.b.d)
-
 
 Work 20th Nov 2020
 ==================
@@ -642,6 +632,7 @@ Work still to do
 - Fix EM flood in woody
 - Put covers on DB2
 - Finish metal clipping relevant conduit runs
+- Disabled toilet alarm
 
 Plus whatever happens once the various changes to layout have been discussed
 and finalised.
