@@ -596,6 +596,26 @@ Work for 21/22nd November
 - Put conduit through for new Metalwork sockets (layout t.b.d)
 
 
+Work 20th Nov 2020
+==================
+
+- Re-work the wiring near front-door/toilet for water heater
+  - complete the conduit to water heater area
+  - move the order of socket and connection for disabled toilet alarm
+  - add new run from toilet-alarm connection to water heater.
+- start work on putting conduit from trunking into metalworking
+  - Mark to finish this off when doing the plaster boarding
+- Untangle the wire coming out of DB2 into the trunking
+  - This will allow trunking to be put back (wrapper with fire alarm FP200)
+  - Pull wires back from "storage" area lights
+  - Move wiska box for old electronics area one pillar back
+  - Re-do the connections to the
+- Remove the main lighting in the green area
+- Remove two sockets on the green-area and arts wall
+  - pulled cable back to cave area socket
+- Initial work on putting the EM light above weldy door
+
+
 Work still to do
 ================
 
