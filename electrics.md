@@ -611,9 +611,16 @@ Work 20th Nov 2020
   - Move wiska box for old electronics area one pillar back
   - Re-do the connections to the
 - Remove the main lighting in the green area
+  - Also remove the light switch
+  - Could permanently wire in the sink lights if needed
 - Remove two sockets on the green-area and arts wall
   - pulled cable back to cave area socket
 - Initial work on putting the EM light above weldy door
+- Discuss with Mark dissasembly of green room ceiling
+  - Try and leave sockets in place
+  - The lighting wiring into gree and cave is diffuclt to move
+  - Try and keep the lighting wiring in place for now
+    - Most of it is attached to edge of unit wall
 
 
 Work still to do
