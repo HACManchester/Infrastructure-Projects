@@ -612,6 +612,24 @@ Work 20th Nov 2020
   - Try and keep the lighting wiring in place for now
     - Most of it is attached to edge of unit wall
 
+Work 22nd Nov 2020
+==================
+
+- Remove cabling and light from the green area
+- Remove green walling (technically not electrical work...)
+  - suspended old conduit above the green room
+  - removed unused conduit from walls
+
+thoughts:
+
+- photo-cave and old-green lighting could be re-routed, either:
+  - extend on from metalwork and around in trunk
+  - extend from snackspace area through and around
+  - snackspace maybe shorter route.
+  - this would also free up some of the arts wiska box (quite full)
+  - temprarily we could just wire to plug and use a socket above green
+
+
 
 Work still to do
 ================
