@@ -629,6 +629,18 @@ thoughts:
   - this would also free up some of the arts wiska box (quite full)
   - temprarily we could just wire to plug and use a socket above green
 
+Work 27th Nov 2020
+==================
+
+- Remove lighting feed to old green area
+- Moved stage wiska box to other side of stage
+  - Closer to switch and stuff
+  - Was very full with all connections elsewhere
+  - Leaves spare wiska box for area over old green / etc
+- Only partially finished new box for stage
+
+
+
 
 
 Work still to do
