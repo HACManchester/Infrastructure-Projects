@@ -88,12 +88,14 @@ Notes/References:
 
 # Rough costs for woody
 
-£20 for the control box
+£20 for the control box (already have suitable enclosure)
 £20 for the electronics
 £60-£250 for the contactor
 £6-£15 x 8 for switches (£48 - £120)
 
 total £148 to £410 for woody, probably similar for metalworking.
+Note, for metalworking a new enclosure would be required)
+
 The big issue for this is chosing the right contactor
 
 
