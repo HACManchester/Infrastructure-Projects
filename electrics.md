@@ -639,6 +639,13 @@ Work 27th Nov 2020
   - Leaves spare wiska box for area over old green / etc
 - Only partially finished new box for stage
 
+Work 29th Nov 2020
+==================
+
+- finish stage area rewire
+- run main area lights to wiska box prev running stage
+- reconnect the light and em light by the stage area
+- some work on metalworking em light conduit
 
 
 
