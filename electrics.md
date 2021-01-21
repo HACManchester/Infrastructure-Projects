@@ -677,7 +677,7 @@ Work still to do
 - Put covers on DB2
 - Finish metal clipping relevant conduit runs
 - Disabled toilet alarm
-- Find fixings for
+- Find fixings for DB2 front
 - Metal work sockets
 - Soldering area sockets
 
