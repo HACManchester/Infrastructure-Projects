@@ -647,7 +647,14 @@ Work 29th Nov 2020
 - reconnect the light and em light by the stage area
 - some work on metalworking em light conduit
 
+Work 16th Jan 2021
+==================
 
+- put cover back on DB2 with one screw (tofix no more screws!)
+- put two cable tie bases in the trunk below DB2
+  - note, we do have end caps for that trunk to fit
+- added Cform 32A connector to below DB2 and wired to 32A MCB
+- re-affixed fire cabling to top of trunking along pillars
 
 
 Work still to do
@@ -670,6 +677,10 @@ Work still to do
 - Put covers on DB2
 - Finish metal clipping relevant conduit runs
 - Disabled toilet alarm
+- Find fixings for
+- Metal work sockets
+- Soldering area sockets
+
 
 Plus whatever happens once the various changes to layout have been discussed
 and finalised.
