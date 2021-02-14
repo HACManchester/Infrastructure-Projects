@@ -656,6 +656,18 @@ Work 16th Jan 2021
 - added Cform 32A connector to below DB2 and wired to 32A MCB
 - re-affixed fire cabling to top of trunking along pillars
 
+Work 13th Feb 2021
+==================
+
+- added socket run for up to 4 desks for electronics area
+  - left end with open 20mm conduit to continue round if needed
+  - left spare 20mm point at start if needed (no 2 90deg bends)
+  - in C20 RCBO in DB1
+- removed two sockets under DB2, freeing circuit
+  - note, one socket with damaged outlet has been disposed of
+- added single double socket to wire ends in metalworking for now
+
+
 
 Work still to do
 ================
