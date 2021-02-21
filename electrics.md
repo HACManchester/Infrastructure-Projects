@@ -668,6 +668,21 @@ Work 13th Feb 2021
 - added single double socket to wire ends in metalworking for now
 
 
+Work 20th Feb 2021
+==================
+
+- Metalwork:
+ - Move the tube batten from 1/2 to 1/3 way along beam
+ - Add wiska box at 1/3 and 1/2 on the beam for lighting
+- More sorting of eletrical bits
+
+
+Work for 23rd/24th Feb 2021
+===========================
+
+- Measure up and spec last bits for metalworking
+- Look at trunking for emergeny light
+- Do some basic inventory for the electronics
 
 Work still to do
 ================
