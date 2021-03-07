@@ -684,6 +684,16 @@ Work for 23rd/24th Feb 2021
 - Look at trunking for emergeny light
 - Do some basic inventory for the electronics
 
+
+Work for 6th March 2021
+=======================
+
+- Add emergency light point above new woody fire-door
+  - note, had to pull back socket cables to add conduit bits
+- Add new wiska box and second tube, em light in metal work
+- Add wiska box at back of metalwork for lighting (not wire yet)
+
+
 Work still to do
 ================
 
