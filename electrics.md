@@ -694,6 +694,31 @@ Work for 6th March 2021
 - Add wiska box at back of metalwork for lighting (not wire yet)
 
 
+Work for 13th March 2021
+========================
+
+- Get second run of conduit to back fire door
+  - this is to be finished off once hoops founhd
+  - then pull through the cables
+- Add most of conduit run along long wall in metalwork
+- Add second coduit down to main switch
+- Start work on internal-door wall in metalwork conduit for lighting
+
+
+Things to do before 12th April 2021 re-opening
+==============================================
+
+- Ensure conduit work in member's storage is done
+- Tidy cabling in member's storage
+- Re-fit em light in old member's storage
+- Finish electronics area sockets
+- Finish metal-work lighting updates
+- Look at metal-work sockets
+
+
+
+
+
 Work still to do
 ================
 
