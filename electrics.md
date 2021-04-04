@@ -747,7 +747,7 @@ Things to do before 12th April 2021 re-opening
 - Verify we have proper socket screws
 - Toilet alarm
 - Tidy wiring into lightswitch
-
+- Remove extra conduit from above main area
 
 
 
