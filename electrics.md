@@ -742,6 +742,11 @@ Things to do before 12th April 2021 re-opening
 - Finish electronics area sockets
 - Finish metal-work lighting updates
 - Put covers back on DB2
+- Find correct screws for grid-switch fronts
+- Start fitting covers on conduit round things
+- Verify we have proper socket screws
+- Toilet alarm
+- Tidy wiring into lightswitch
 
 
 
