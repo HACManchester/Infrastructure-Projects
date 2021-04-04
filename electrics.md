@@ -704,16 +704,44 @@ Work for 13th March 2021
 - Add second coduit down to main switch
 - Start work on internal-door wall in metalwork conduit for lighting
 
+Work for 20th March 2021
+========================
+
+- Lighting conduit work in metalwork
+- Added second switch box for main switch
+- Moved woodworking to main switch panel
+- More work on metalwork lighting
+
+
+Work for 30th March 2021
+========================
+
+- Conduit to cctv area for more sockets
+- Check items for easter weekend work
+- Re-add photocave lighting wiring
+
+
+Work for 2nd-3rd April 2021
+===========================
+
+- Fit run of 7 sockets along long wall in metal working
+- Start tidying work on trunking
+  - issue with not enough cable retainers clips
+- Install toilet extraction fan and wire in
+- Add PIR into toilet to run lights and fan
+  - Currently light switch can override both fan and light
+- Fitted keyswitch for entrace lighting
+- Put proper fire rated clips on entrance lighting
+
+
 
 Things to do before 12th April 2021 re-opening
 ==============================================
 
-- Ensure conduit work in member's storage is done
 - Tidy cabling in member's storage
-- Re-fit em light in old member's storage
 - Finish electronics area sockets
 - Finish metal-work lighting updates
-- Look at metal-work sockets
+- Put covers back on DB2
 
 
 
