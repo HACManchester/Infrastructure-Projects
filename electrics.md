@@ -734,6 +734,26 @@ Work for 2nd-3rd April 2021
 - Put proper fire rated clips on entrance lighting
 
 
+Work for 5th April 2021
+=======================
+
+- Finish conduit for wiring to CCTV corner
+- Pull through the cable for CCTV corner socket(s)
+- Electronics area
+  - Check all sockets and put the fronts on
+  - Put all conduit covers on
+- Fit two sockets by DB1 for 3D printers
+  - Added RCBO for these sockets
+- Re-fit screws on DB1 cover
+- Wire in sockets for metalworking
+- Start fitting covers on in toilet area
+
+
+Notes:
+- need more covers for round trunking areas
+- need more 3.5x30 socket screws
+
+
 
 Things to do before 12th April 2021 re-opening
 ==============================================
@@ -750,6 +770,8 @@ Things to do before 12th April 2021 re-opening
 - Remove extra conduit from above main area
 
 
+- get grid switch screw
+- return size8 swa cletes for size9
 
 
 Work still to do
