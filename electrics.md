@@ -754,12 +754,32 @@ Notes:
 - need more 3.5x30 socket screws
 
 
+Work 10th/11th April 2021
+=========================
+
+- Put up two 10W LED lights in large storage
+- Add PIR for the new large storage lights
+- Remove sockets from wall between large storage and slackspace
+- Put one of above sockets back in where snackspace is currently
+- Finish lighting above lift area
+  - Switch for turning on the emergrency light by lift
+  - Put covering back on
+- Fix toilet seat
+- Measure bolts for putting DB2 cover back on
+  - Think these are going to be M5x20mm
+  - Seems to work
+- Returned size8 SWA cletes for size9
+  - And scored some old cable drums for Mark
+- Lots of cleaning
+- Finish wiring toilet alarm
+  - Unit is NC942B
+
+
 
 Things to do before 12th April 2021 re-opening
 ==============================================
 
 - Tidy cabling in member's storage
-- Finish electronics area sockets
 - Finish metal-work lighting updates
 - Put covers back on DB2
 - Find correct screws for grid-switch fronts
@@ -769,9 +789,6 @@ Things to do before 12th April 2021 re-opening
 - Tidy wiring into lightswitch
 - Remove extra conduit from above main area
 
-
-- get grid switch screw
-- return size8 swa cletes for size9
 
 
 Work still to do
