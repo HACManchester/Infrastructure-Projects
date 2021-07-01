@@ -790,6 +790,18 @@ Things to do before 12th April 2021 re-opening
 - Remove extra conduit from above main area
 
 
+Notes from 27th June 2021
+=========================
+
+- Light in snackspace seems to have failed (Noxion LED tube)
+- Tidy 4mm2 cables over entrance to cave
+- Put permanent live to the large storage PIR?
+  - there is none on the wiska box above the front of stage
+  - don't see any permanent live in feeder either
+  - conclusion: leave this for now
+- tidy the PIR cabling and find a 20mm cable entry bushing
+- 
+
 
 Work still to do
 ================
@@ -810,10 +822,7 @@ Work still to do
 - Fix EM flood in woody
 - Put covers on DB2
 - Finish metal clipping relevant conduit runs
-- Disabled toilet alarm
-- Find fixings for DB2 front
 - Metal work sockets
-- Soldering area sockets
 
 
 Plus whatever happens once the various changes to layout have been discussed
